@@ -506,16 +506,18 @@ footer{
         margin-left: 8px;
     }
 
+    .section-2{
+        display: flex;
+        justify-content: center;
+    }
     .logos{
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        
         width: 275.21px;
         height: 61.46px;
         align-items: center;
         justify-content: center;
-        margin-top: 69px;
         margin: 50px 42px;
         align-content: space-between;
     }
